@@ -4,7 +4,7 @@
 
 Project is easy to install here are the things you need : 
 - Python 3.6+
-- run `pip install requirements.txt` in order to install all required packages
+- run `pip install -r requirements.txt` in order to install all required packages
 - Download <u>each</u> files of the repo or it wont work at all (you need the `datas.json`)
 - Put all files in a same folder and run `woo-sales.py`
 
