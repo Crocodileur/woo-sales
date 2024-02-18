@@ -1,4 +1,8 @@
 # Woo Sales
+## 0. Showcase Video
+
+https://github.com/Crocodileur/woo-sales/assets/99036619/a05dae2c-2ed5-4e0c-b490-8e65c23ebf85
+
 
 ## 1. Requirements and installation 
 
