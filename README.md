@@ -15,4 +15,5 @@ What you can do with Woo-Sales :
 - Get multiple stores datas at once
 - Add new websites with no need to add logins datas every time (api keys stored in `datas.json`)
 
+
 **Be aware that any person with an access to your api key can read/write (depend the permissions of the api key) data from your store !**
